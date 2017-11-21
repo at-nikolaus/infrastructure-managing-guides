@@ -5,8 +5,9 @@ How to Build and Manage a Infrastructure
 - Application Hosting Production
 - Application Hosting Development
 - Application Monitoring
-- Application Deployment Scripts and tools
-
+- Application Production Data Archive
+- Application Deployment Structure
+- > This Describes all the Above Application Deployment Scripts and tools
 
 ## Low Level Infrastructure View
 - Unlimited Deep with dependencys!
